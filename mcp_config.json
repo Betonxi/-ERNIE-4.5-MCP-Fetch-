@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "fetch": {
+      "type": "streamable_http",
+      "url": "https://mcp.api-inference.modelscope.net/bd6089df8e0d43/mcp"
+    }
+  }
+}
+
